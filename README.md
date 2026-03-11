@@ -138,5 +138,6 @@ int main() {
 
 # Output:
 <img width="815" height="500" alt="image" src="https://github.com/user-attachments/assets/a1379638-4fed-413c-8093-588a8985b8bc" />
+
 # Result:
 Thus, the Playfair Cipher encryption program was successfully implemented and executed. The plaintext was encrypted correctly using the Playfair Cipher technique.
